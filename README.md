@@ -48,10 +48,5 @@
         <iframe src="layout3.html"></iframe>
     </div>
 
-<h2>Strona domowa służąca jako przykład</h2>
-<div class="container">
-    <iframe src="INDEX12.html"></iframe>
-</div>
-
 </body>
 </html>
