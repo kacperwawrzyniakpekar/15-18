@@ -7,7 +7,7 @@
     <body>
 <frameset rows="70%, 30%">
     <frame name="mainFrame" src="https://kacperwawrzyniakpekar.github.io/main/">
-    <frame name="menuFrame" src="menu.html">
+    <frame name="menuFrame" src="https://kacperwawrzyniakpekar.github.io/menu/">
 </frameset>
     </body>
 </html>
