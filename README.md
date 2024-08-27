@@ -36,7 +36,7 @@
 
 <h2>Układ 1: Okno mniejsze po prawej → menu pionowe</h2>
     <div class="container">
-        <iframe src="layout1.html"></iframe>
+        <iframe src="uklad1.html"></iframe>
     </div>
 
 <h2>Układ 2: Okno mniejsze na dole → menu poziome</h2>
