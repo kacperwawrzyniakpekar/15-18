@@ -6,7 +6,7 @@
 </head>
     <body>
 <frameset rows="70%, 30%">
-    <frame name="mainFrame" src="main.html">
+    <frame name="mainFrame" src="https://kacperwawrzyniakpekar.github.io/main/">
     <frame name="menuFrame" src="menu.html">
 </frameset>
     </body>
