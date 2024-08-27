@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pl">
 <head>
     <meta charset="UTF-8">
@@ -34,17 +33,17 @@
 </head>
 <body>
 
-<h2>Układ 1: Okno mniejsze po prawej → menu pionowe</h2>
+    <h2>Układ 1: Okno mniejsze po prawej → menu pionowe</h2>
     <div class="container">
-        <iframe src="uklad1.html"></iframe>
+        <iframe src="layout1.html"></iframe>
     </div>
 
-<h2>Układ 2: Okno mniejsze na dole → menu poziome</h2>
+    <h2>Układ 2: Okno mniejsze na dole → menu poziome</h2>
     <div class="container">
         <iframe src="layout2.html"></iframe>
     </div>
 
- <h2>Układ 3: Okno mniejsze na górze → menu poziome</h2>
+    <h2>Układ 3: Okno mniejsze na górze → menu poziome</h2>
     <div class="container">
         <iframe src="layout3.html"></iframe>
     </div>
