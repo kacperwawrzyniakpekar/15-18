@@ -50,7 +50,7 @@
 
 <h2>Strona domowa służąca jako przykład</h2>
 <div class="container">
-    <iframe src="example_homepage.html"></iframe>
+    <iframe src="INDEX12.html"></iframe>
 </div>
 
 </body>
